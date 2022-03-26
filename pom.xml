@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>My-Release-Repo</name>
-	      <url>http://54.87.30.213:8081/repository/MY-RELEASE-REPO/</url>
+	      <url>http://54.147.17.143:8081/repository/MY-RELEASE-REPO/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>My Snapshot Repo</name>
-	      <url>http://54.87.30.213:8081/repository/MY-SNAPSHOT-REPO/</url>
+	      <url>http://54.147.17.143:8081/repository/MY-SNAPSHOT-REPO/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
